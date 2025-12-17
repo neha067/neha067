@@ -13,7 +13,7 @@ Hi 👋, I'm Neha</h1>
 
 - 🔭 I’m currently working on **React, TypeScript JavaScript**
 - 🔭 My most recent project **www.kiopio.com**
-
+- 🔭 Visit my portfolio **https://portfolio-seven-chi-50.vercel.app/**
 - 💬 Ask me about **Data Structures & Web development**
 
 - 📫 How to reach me **nehapriyaekka2000@gmail.com**

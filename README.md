@@ -9,7 +9,7 @@ Hi 👋, I'm Neha</h1>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanshparashar&label=Profile%20views&color=0e75b6&style=flat" alt="ramanshparashar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha067&label=Profile%20views&color=0e75b6&style=flat" alt="neha067" /> </p>
 
 - 🔭 I’m currently working on **React, TypeScript JavaScript**
 - 🔭 My most recent project **www.kiopio.com**
